@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruync",
+        "uuid": 63684,
+        "checksum": "31vymj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
